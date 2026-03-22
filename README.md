@@ -13,9 +13,9 @@ This project is a simple web-based application designed to help students manage 
 
 ## 🛠️ Technologies Used
 
-* HTML
-* CSS
-* JavaScript
+* python
+* date time module
+  
 
 ## 📷 How It Works
 
